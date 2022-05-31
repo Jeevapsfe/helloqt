@@ -1,4 +1,4 @@
-QT += quick
+QT += widgets
 CONFIG += c++11
 TARGET= lib
 
